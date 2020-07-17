@@ -12,28 +12,33 @@ class Directory extends React.Component {
       sections: [
         {
           title: "hats",
-          imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+          imageUrl:
+            "https://i.pinimg.com/564x/f9/b3/7b/f9b37b223f246983de63199de83220e0.jpg",
           id: 1,
         },
         {
           title: "jackets",
-          imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+          imageUrl:
+            "https://i.pinimg.com/564x/2a/75/a8/2a75a864b9212f54e19f3a438308d8a2.jpg",
           id: 2,
         },
         {
           title: "sneakers",
-          imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
+          imageUrl:
+            "https://i.pinimg.com/564x/9a/a2/cc/9aa2cc38ccf9c4599c5398bcc673582e.jpg",
           id: 3,
         },
         {
           title: "womens",
-          imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
+          imageUrl:
+            "https://i.pinimg.com/564x/d7/8b/7f/d78b7f42c8ddd62afaeb2c732ed1cef2.jpg",
           size: "large",
           id: 4,
         },
         {
           title: "mens",
-          imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
+          imageUrl:
+            "https://i.pinimg.com/564x/c2/64/bf/c264bf3018f4fec7a787aecff32cf2c6.jpg",
           size: "large",
           id: 5,
         },

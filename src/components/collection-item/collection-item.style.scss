@@ -1,13 +1,13 @@
 .collection-item {
-  width: 20vw;
+  width: 25vw;
   display: flex;
   flex-direction: column;
   height: 500px;
   align-items: center;
   position: relative;
-
+  margin: auto;
   .image {
-    width: 100%;
+    width: 400px;
     height: 100%;
     background-size: cover;
     background-position: center;
@@ -41,12 +41,13 @@
     font-size: 20px;
 
     .name {
-      width: 90%;
+      width: 80%;
       margin-bottom: 15px;
+      margin-left: 20px;
     }
 
     .price {
-      width: 10%;
+      width: 20%;
     }
   }
 }
