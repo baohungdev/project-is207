@@ -5,7 +5,7 @@ import SignUp from "../../components/sign-up/sign-up.component";
 import { Cell, Grid } from "styled-css-grid";
 const SignInAndSignUp = () => {
   return (
-    <Grid columns="repeat(auto-fit,minmax(300px,900px))">
+    <Grid columns="repeat(auto-fit,minmax(400px,1fr))">
       <Cell>
         <SignIn />
       </Cell>
